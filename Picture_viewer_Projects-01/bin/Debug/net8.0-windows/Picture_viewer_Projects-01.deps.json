@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Picture_viewer_Projects-01/1.0.0": {
+        "runtime": {
+          "Picture_viewer_Projects-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Picture_viewer_Projects-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
